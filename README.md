@@ -2,7 +2,7 @@
 The Central City Citizeb blog
 
 
-This project was maded for test [Loopback.io](http://loopback.io/)
+This project was made to test [Loopback.io](http://loopback.io/)
 
 ## Features
 * Full CRUD
