@@ -14,32 +14,32 @@
     ]
   },
   "User": {
-    "dataSource": "db"
+    "dataSource": "ccc_db"
   },
   "AccessToken": {
-    "dataSource": "db",
+    "dataSource": "ccc_db",
     "public": false
   },
   "ACL": {
-    "dataSource": "db",
+    "dataSource": "ccc_db",
     "public": false
   },
   "RoleMapping": {
-    "dataSource": "db",
+    "dataSource": "ccc_db",
     "public": false,
     "options": {
       "strictObjectIDCoercion": true
     }
   },
   "Role": {
-    "dataSource": "db",
+    "dataSource": "ccc_db",
     "public": false
   },
   "Note": {
     "dataSource": "db"
   },
   "post": {
-    "dataSource": "db",
+    "dataSource": "ccc_db",
     "public": true
   }
 }

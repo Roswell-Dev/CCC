@@ -2,5 +2,15 @@
   "db": {
     "name": "db",
     "connector": "memory"
+  },
+  "ccc_db": {
+    "host": "ds149335.mlab.com",
+    "port": 49335,
+    "url": "mongodb://ccc-usr:eyeball.iamb.hobnail.holder@ds149335.mlab.com:49335/ccc",
+    "database": "ccc",
+    "password": "eyeball.iamb.hobnail.holder",
+    "name": "ccc-db",
+    "user": "ccc-usr",
+    "connector": "mongodb"
   }
 }
